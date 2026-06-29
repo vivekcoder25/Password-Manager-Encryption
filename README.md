@@ -90,12 +90,6 @@ python password_manager.py
 
 ---
 
-# 📸 Output
-
-*(Add screenshots of your application here after uploading the project.)*
-
----
-
 # 🎯 Learning Outcomes
 
 * Python File Handling
@@ -106,9 +100,3 @@ python password_manager.py
 * Clipboard Operations
 
 ---
-
-# 👨‍💻 Developed By
-
-**Vivek Kumar Das**
-
-**Intern ID:** CTTS145
